@@ -161,3 +161,17 @@ cython_debug/
 *.sqlite
 */dataset*
 project/datasets/
+*.csv
+*.gz
+*.xlsx
+*.txt
+List of countries by GDP (nominal) - Wikipedia_files/*
+*.jpg
+*.sqlite*
+*.pbix
+*.pdf
+petsdb
+*.png
+*.sql
+*key*.json
+*.json
